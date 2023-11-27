@@ -1,0 +1,31 @@
+
+body{
+    background-image: linear-gradient(to right, #243949 0%, #517fa4 100%); 
+}
+h1
+{
+    font-weight: bold;
+    text-align: center;
+    text-transform: uppercase;
+}
+.col-md-5{
+    padding: 20px;
+    margin-top: 150px;
+    border: 5px solid black;
+    border-radius: 5px;
+    background-image: linear-gradient(to right, #243949 0%, #517fa4 100%); 
+}
+input{
+    width: 100%;
+    margin-top: 10px;
+    height: 40px;
+}
+.success{
+    border: 5px solid green;
+}
+.error{
+    border: 5px solid red;
+}
+#username-error,#email-error,#password-error,#confirm-error{
+    color: red;
+}

@@ -1,0 +1,16 @@
+body{
+   background-color:rgb(220, 220, 126) !important;
+}
+.header{
+    background-color: rgb(17, 174, 174);
+    color:white;
+}
+#tabledata{
+    border: 2px solid white;
+}
+#tabledata td{
+    border: 1px solid rgb(135, 135, 135);
+}
+.col-md-6{
+    margin-top: 50px !important;
+}

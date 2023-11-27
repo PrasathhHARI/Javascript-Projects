@@ -1,0 +1,30 @@
+*{
+   font-family: 'Times New Roman', Times, serif;
+
+}
+body{
+    background-color: #123456;
+}
+
+.col-md-7{
+    margin-top: 150px;
+    background-color: #fff;
+   padding: 30px 50px 50px 50px;
+
+}
+#quizdiv li,.question
+{
+    margin-top: 15px;
+    list-style-type: none;
+    font-size: 35px;
+}
+#quizdiv button
+{
+    margin-top: 35px;
+}
+.header{
+    background-color: violet;
+}
+#question{
+    font-size: 35px;   
+}

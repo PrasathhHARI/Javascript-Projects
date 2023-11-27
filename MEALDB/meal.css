@@ -1,0 +1,41 @@
+ img{  
+   
+    border-radius: 5px;
+}
+.col-md-4{
+   margin: 30px !important;
+}
+
+#navbar{
+    background-color: rgb(61, 57, 57);
+    color: white;
+}
+li{
+    display: inline  !important;
+    list-style-type: none;
+    margin-left: 20px;
+    text-transform: uppercase;
+  
+}
+#nav{
+    list-style-type: none;
+    padding-bottom: 10px;
+
+}
+
+p{
+    font-size: 20px;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+}
+.footor{
+    background-color:brown;
+    color: aliceblue;
+}
+.footor p{
+    text-align: center;
+}
+#head{
+    padding: 20px !important;
+    font-size: 20px;
+}
